@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="button_label">OK</string>
+    <string name="pref_name">Pick a color</string>
+    <string name="pref_summary">DialogPreference with Color Picker.</string>
+    <string name="action_settings">Settings</string>
+    <string name="preset_title_hint">Enter a title for the Color Preset.</string>
+    <string name="preset_title_label">Title</string>
+    <string name="preset_details_label">Details</string>
+    <string name="preset_solved_label">Solved</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="new_preset">New Preset</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s Presets</string>
+    <string name="delete_preset">Delete Preset</string>
+    <string name="no_data">There are no presets</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s preset</item>
+        <item quantity="other">%1$s presets</item>
+    </plurals>
+
+    <string-array name="type_array">
+        <item>Solid</item>
+        <item>Pulse</item>
+        <item>Strobe</item>
+        <item>Random</item>
+    </string-array>
+</resources>
